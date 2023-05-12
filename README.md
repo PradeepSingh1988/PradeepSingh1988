@@ -9,7 +9,7 @@ Hi there, I am Pradeep.
 - I also sometimes  work on Data Services like Composer, BQ, Dataflow, Datafusion etc.
 - I love troubleshooting issues and enjoy platform engineering work.  
 - I am interested in Operating Systems, Distributed systems, Algorithms, AI/ML.
-- I am an incoming MSCS student at Georgia Institute of Technology.
+- I am an incoming OMSCS student at Georgia Institute of Technology.
 
 
 
