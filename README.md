@@ -6,9 +6,10 @@ Hi there, I am Pradeep.
 - I help GCP customers by developing, re-platforming, re-architecturing their applications on GCP.
 - I have strengths in in App Modernization, Networking, Security.
 - I mostly work on GCP Core Services i.e. Compute, Networking, Security, GKE, Cloud Run, Cloud Functions, CI/CD etc.
-- I also sometimes  work on Data Services like Composer, BQ, Dataflow, Datfusion etc.
+- I also sometimes  work on Data Services like Composer, BQ, Dataflow, Datafusion etc.
 - I love troubleshooting issues and enjoy platform engineering work.  
-- I am interested in Operating Systems, distributed systems, Algorithms.
+- I am interested in Operating Systems, Distributed systems, Algorithms, AI/ML.
+- I am an incoming MS student in Georgia Tech Institute of Technology.
 
 
 
